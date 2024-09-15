@@ -1,23 +1,23 @@
 ![logo](https://github.com/Rahul96435hub/Rahul96435hub/blob/main/java-black.png)
-<h1 align="center">Hi 👋, I'm Rahul Suryavanshi</h1>
+<h1 align="center">Hi 👋, I'm Anurag Seth</h1>
 <h3 align="center">A passionate Java Expert developer from India</h3>
 <img align="right" alt="coading" width="400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul96435hub&label=Profile%20views&color=0e75b6&style=flat" alt="rahul96435hub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul96435hub&label=Profile%20views&color=0e75b6&style=flat" alt="Anuragseth23" /> </p>
 
-- 🌱 I’m currently learning **Spring ,Spring Boot ,Hibernate**
+- 🌱 I’m currently learning **Spring ,Spring Boot ,Hibernate,**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rahul96435](https://linktr.ee/rahul96435)
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about **Oops, Collection, String, Exception, Multithreading, Servlet,JDBC, JSP**
 
-- 📫 How to reach me **rahul96435@outlook.com**
+- 📫 How to reach me **seth98870@gmail.com**
 
 - ⚡ Fun fact **I am happy😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahul96435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul96435" height="30" width="40" /></a>
+<a href="[[https://twitter.com/ErAnuragSeth1]]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul96435" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul96435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul96435" height="30" width="40" /></a>
 <a href="https://fb.com/raaz.rahul.96435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raaz.rahul.96435" height="30" width="40" /></a>
 <a href="https://instagram.com/therahul_suryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therahul_suryavanshi" height="30" width="40" /></a>
